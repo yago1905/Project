@@ -1,3 +1,5 @@
+$shadow-butom: #5A98D0;
+
 body {
     font-family: sans-serif;
     display: block;
@@ -285,7 +287,7 @@ body {
   .box {
     padding: 56px;
     background: #FFFFFF;
-    box-shadow: 5px 10px 50px rgb(16 112 177 / 20%);
+    box-shadow: 5px 10px 50px $shadow-butom/20%;
     border-radius: 10px;
   }
   
