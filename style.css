@@ -313,8 +313,8 @@ hr {
 .box {
   padding: 56px;
   background: #FFFFFF;
-  -webkit-box-shadow: 5px 10px 50px #05080a;
-          box-shadow: 5px 10px 50px #05080a;
+  -webkit-box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+          box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
   border-radius: 10px;
 }
 
